@@ -80,9 +80,17 @@ FinOps combines systems, best practices, and culture to help organizations under
 
 ## More from ResourceChest
 
-Check out our other curated lists and tools:
+| Repository | Description |
+|:--------|:------|
+| [Chrome Privacy Extensions](https://github.com/ResourceChest/chrome-privacy-extensions) | Curated Chrome extensions for privacy and security |
+| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs with ratings |
+| [AI Agents](https://github.com/ResourceChest/ai-agents) | Practical AI agents, frameworks, and tools for developers |
+| [Local-First Tools](https://github.com/ResourceChest/local-first-tools) | Local-first, offline-capable, privacy-respecting tools |
+| [Dev Tools (No Signup)](https://github.com/ResourceChest/dev-tools-no-signup) | Free developer tools that work instantly without an account |
 
-- [ResourceChest on GitHub](https://github.com/ResourceChest) - Browse all repositories from the ResourceChest organization.
+> **[Follow ResourceChest](https://github.com/ResourceChest)** for more curated resource collections.
+
+---
 
 ## Contributing
 
