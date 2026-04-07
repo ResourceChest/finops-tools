@@ -1,7 +1,7 @@
 # FinOps Tools
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
 [![GitHub Stars](https://img.shields.io/github/stars/ResourceChest/finops-tools.svg)](https://github.com/ResourceChest/finops-tools/stargazers)
 
 A curated list of tools, frameworks, and resources for **FinOps** (Cloud Financial Operations) -- the practice of bringing financial accountability to cloud spending. Whether you are a DevOps engineer tracking Kubernetes costs, an SRE right-sizing infrastructure, an engineering manager forecasting budgets, or a finance team member seeking cloud cost transparency, this list is for you.
