@@ -1,6 +1,5 @@
-# Awesome FinOps Tools
+# FinOps Tools
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub Stars](https://img.shields.io/github/stars/ResourceChest/finops-tools.svg)](https://github.com/ResourceChest/finops-tools/stargazers)
