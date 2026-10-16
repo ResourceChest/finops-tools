@@ -35,6 +35,8 @@ FinOps combines systems, best practices, and culture to help organizations under
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance using declarative YAML policies.
 - [Vantage](https://www.vantage.sh) - Cloud cost transparency platform with detailed reporting, budget tracking, and optimization recommendations across providers.
 
+- [AI Spend Doctor](https://aispenddoctor.com/) - Free, browser-local checks of Claude, OpenAI and OpenRouter usage/cost CSVs for spend spikes and cost patterns; no signup, API key or file upload.
+
 ## Kubernetes Cost Optimization
 
 - [Kubecost](https://github.com/kubecost/cost-analyzer-helm-chart) - Kubernetes cost monitoring and optimization platform providing real-time cost allocation and efficiency insights.
@@ -108,3 +110,4 @@ This list is provided for informational purposes only. Inclusion of a tool does 
 ---
 
 If you find this list useful, please give it a star and share it with your team.
+
