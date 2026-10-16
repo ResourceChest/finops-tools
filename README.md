@@ -34,6 +34,7 @@ FinOps combines systems, best practices, and culture to help organizations under
 - [Komiser](https://github.com/tailwarden/komiser) - Open-source cloud environment inspector that analyzes cost, usage, security, and governance across AWS, GCP, Azure, and more.
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance using declarative YAML policies.
 - [Vantage](https://www.vantage.sh) - Cloud cost transparency platform with detailed reporting, budget tracking, and optimization recommendations across providers.
+- [EOLWatch](https://eolwatch.pages.dev) - Free tracker for AWS extended-support fees and end-of-support dates (EKS, RDS, Aurora, Lambda).
 
 ## Kubernetes Cost Optimization
 
