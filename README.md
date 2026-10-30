@@ -29,11 +29,12 @@ FinOps combines systems, best practices, and culture to help organizations under
 
 ## Cost Visibility and Analytics
 
-- [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests, shifting FinOps left into the development workflow.
-- [OpenCost](https://github.com/opencost/opencost) - CNCF incubating project for real-time cost monitoring of Kubernetes workloads and cloud costs.
-- [Komiser](https://github.com/tailwarden/komiser) - Open-source cloud environment inspector that analyzes cost, usage, security, and governance across AWS, GCP, Azure, and more.
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance using declarative YAML policies.
+- [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests, shifting FinOps left into the development workflow.
+- [Komiser](https://github.com/tailwarden/komiser) - Open-source cloud environment inspector that analyzes cost, usage, security, and governance across AWS, GCP, Azure, and more.
+- [OpenCost](https://github.com/opencost/opencost) - CNCF incubating project for real-time cost monitoring of Kubernetes workloads and cloud costs.
 - [Vantage](https://www.vantage.sh) - Cloud cost transparency platform with detailed reporting, budget tracking, and optimization recommendations across providers.
+- [VPSLedger](https://vpsledger.pages.dev/) - Free calculator and open JSON dataset comparing total monthly VPS cost (list price plus IPv4, backups and egress) with sourced dated prices.
 
 ## Kubernetes Cost Optimization
 
