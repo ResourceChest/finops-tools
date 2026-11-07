@@ -71,6 +71,7 @@ FinOps combines systems, best practices, and culture to help organizations under
 - [Finala](https://github.com/similarweb/finala) - Open-source cloud resource scanner that detects wasteful and unused resources to help reduce unnecessary spending.
 - [Steampipe](https://github.com/turbot/steampipe) - Query cloud infrastructure, SaaS, and more using SQL to find unused resources, policy violations, and optimization opportunities.
 - [Cartography](https://github.com/lyft/cartography) - Python tool that maps infrastructure assets and relationships into a Neo4j graph database for security and cost analysis.
+- [Control Cloud](https://controlcloud.dev) - Live inventory of OCI, Azure, AWS, GCP, IONOS and on-prem resources read with read-only credentials that flags unattached disks and orphaned IPs and schedules VMs off and on by time window or tag.
 
 ## FinOps Frameworks and Learning
 
